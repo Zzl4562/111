@@ -8,7 +8,7 @@
       {
       "id": "youthCk",
       "name": "中青数据",
-      "keys": ["youthheader_zq", "read_zq", "readtime_zq", "youthheader_zq2", "read_zq2", "readtime_zq2", "youthheader_zq3", "read_zq3", "readtime_zq3", "youthheader_zq4", "read_zq4", "readtime_zq4", "youthheader_zq5", "read_zq5", "readtime_zq5", "youthheader_zq6", "read_zq6", "readtime_zq6", "youthheader_zq7", "read_zq7", "readtime_zq7", "youthheader_zq8", "read_zq8", "readtime_zq8", "youthheader_zq9", "read_zq9", "readtime_zq9", "youthheader_zq10", "read_zq10", "readtime_zq10", "youthheader_zq11", "read_zq11", "readtime_zq11", "youthheader_zq12", "read_zq12", "readtime_zq12"],
+      "keys": ["youthheader_zq", "read_zq", "readtime_zq", "youthheader_zq2", "read_zq2", "readtime_zq2", "youthheader_zq3", "read_zq3", "readtime_zq3", "youthheader_zq4", "read_zq4", "readtime_zq4", "youthheader_zq5", "read_zq5", "readtime_zq5", "youthheader_zq6", "read_zq6", "readtime_zq6"],
       "descs_html": [
         "多账号脚本地址【<a href=\"https://raw.githubusercontent.com/ztxtop/x/main/youth.js\">中青看点极速版</a>】",
         "中青多账号ck抓取步骤：",
@@ -102,7 +102,7 @@
         "name": "账号4总阅读数",
         "val": "0",
         "type": "number",
-        "desc": "账号4阅读数据总行数"  
+        "desc": "账号4阅读数据总行数"
       }],
       "repo": "https://github.com/ztxtop/x/blob/main/zqread.js",
       "icons": ["https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png", "https://gitee.com/the-eldest-is-xu/color/raw/master/youth.png"],
@@ -152,95 +152,6 @@
         "cashbody_zq4",
         "zqcash4",
         "zqcard4"
-        "zq_nick5",
-        "youthheader_zq5",
-        "read_zq5",
-        "readtime_zq5",
-        "cashurl_zq5",
-        "cashbody_zq5",
-        "zqcash5",
-        "zqcard5"
-        "zq_nick6",
-        "youthheader_zq6",
-        "read_zq6",
-        "readtime_zq6",
-        "cashurl_zq6",
-        "cashbody_zq6",
-        "zqcash6",
-        "zqcard6"
-        "zq_nick7",
-        "youthheader_zq7",
-        "read_zq7",
-        "readtime_zq7",
-        "cashurl_zq7",
-        "cashbody_zq7",
-        "zqcash7",
-        "zqcard7"
-        "zq_nick8",
-        "youthheader_zq8",
-        "read_zq8",
-        "readtime_zq8",
-        "cashurl_zq8",
-        "cashbody_zq8",
-        "zqcash8",
-        "zqcard8"
-        "zq_nick9",
-        "youthheader_zq9",
-        "read_zq9",
-        "readtime_zq9",
-        "cashurl_zq9",
-        "cashbody_zq9",
-        "zqcash9",
-        "zqcard9"
-        "zq_nick10",
-        "youthheader_zq10",
-        "read_zq10",
-        "readtime_zq10",
-        "cashurl_zq10",
-        "cashbody_zq10",
-        "zqcash10",
-        "zqcard10"
-        "zq_nick11",
-        "youthheader_zq11",
-        "read_zq11",
-        "readtime_zq11",
-        "cashurl_zq11",
-        "cashbody_zq11",
-        "zqcash11",
-        "zqcard11"
-        "zq_nick12",
-        "youthheader_zq12",
-        "read_zq12",
-        "readtime_zq12",
-        "cashurl_zq12",
-        "cashbody_zq12",
-        "zqcash12",
-        "zqcard12"
-        "zq_nick13",
-        "youthheader_zq13",
-        "read_zq13",
-        "readtime_zq13",
-        "cashurl_zq13",
-        "cashbody_zq13",
-        "zqcash13",
-        "zqcard13"
-        "zq_nick14",
-        "youthheader_zq14",
-        "read_zq14",
-        "readtime_zq14",
-        "cashurl_zq14",
-        "cashbody_zq14",
-        "zqcash14",
-        "zqcard14"
-        "zq_nick15",
-        "youthheader_zq15",
-        "read_zq15",
-        "readtime_zq15",
-        "cashurl_zq15",
-        "cashbody_zq15",
-        "zqcash15",
-        "zqcard15"
-        
       ], 
       "repo": "https://github.com/Sunert/Scripts/blob/master/Task/youth.js", 
       "id": "youth", 
@@ -328,30 +239,6 @@
         "autotime_zq3",
         "youth_autoread4", 
         "autotime_zq4"
-        "youth_autoread5", 
-        "autotime_zq5"
-        "youth_autoread6", 
-        "autotime_zq6"
-        "youth_autoread7", 
-        "autotime_zq7"
-        "youth_autoread8", 
-        "autotime_zq8"
-        "youth_autoread9", 
-        "autotime_zq9"
-        "youth_autoread10", 
-        "autotime_zq10"
-        "youth_autoread11", 
-        "autotime_zq11"
-        "youth_autoread12", 
-        "autotime_zq12"
-        "youth_autoread13", 
-        "autotime_zq13"
-        "youth_autoread14", 
-        "autotime_zq14"
-        "youth_autoread15", 
-        "autotime_zq15"
-        "youth_autoread16", 
-        "autotime_zq16"
       ], 
       "settings": [
       {
