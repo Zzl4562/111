@@ -1,22 +1,6 @@
-{
-  "id": "sunert.app.sub", 
-  "author": "@Sunert", 
-  "icon": "https://avatars2.githubusercontent.com/u/47924389?s=460&u=5152f048a9e8aaa45102763a578172407c40fcc8&v=4", 
-  "name": "Su应用订阅", 
-  "repo": "https://github.com/Sunert/Script/tree/master", 
-  "apps": [
-    {
-  "id": "sunert.app.sub", 
-  "author": "@Sunert", 
-  "icon": "https://avatars2.githubusercontent.com/u/47924389?s=460&u=5152f048a9e8aaa45102763a578172407c40fcc8&v=4", 
-  "name": "Sunert 签到应用订阅", 
-  "repo": "https://github.com/Sunert/Script/tree/master", 
-  "apps": [
     {
       "author": "@sunert", 
       "keys": [
-        "jukan_body", 
-        "jukan_name"
         "jukan_body", 
         "jukan_name"
       ], 
@@ -72,4 +56,4 @@
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan_mini.png", 
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
       ]
-}
+    }
