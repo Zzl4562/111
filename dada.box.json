@@ -1,3 +1,10 @@
+{
+  "id": "sunert.app.sub", 
+  "author": "@Sunert", 
+  "icon": "https://avatars2.githubusercontent.com/u/47924389?s=460&u=5152f048a9e8aaa45102763a578172407c40fcc8&v=4", 
+  "name": "Sunert 签到应用订阅", 
+  "repo": "https://github.com/Sunert/Script/tree/master", 
+  "apps": [
     {
       "author": "@sunert", 
       "keys": [
@@ -56,4 +63,21 @@
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan_mini.png", 
         "https://cdn.jsdelivr.net/gh/Sunert/Profiles@master/QuantumultX/Rules/Images/icon/jukan.png"
       ]
-    }
+    }, 
+    {
+      "author": "@sunert", 
+      "keys": [
+        "sign_mydigit"
+      ], 
+      "repo": "https://github.com/Sunert/Script/blob/master/Task/mydigit.js", 
+      "id": "mydigit", 
+      "script": "https://raw.githubusercontent.com/Sunert/Script/master/Task/mydigit.js", 
+      "name": "数码之家", 
+      "icons": [
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/mydigit.png", 
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/mydigit.png"
+      ]
+    }, 
+    
+  ]
+}
